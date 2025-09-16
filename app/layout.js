@@ -1,4 +1,4 @@
-javascriptimport './globals.css'
+'./globals.css'
 
 export const metadata = {
   title: 'Gwynne Care Notes',
