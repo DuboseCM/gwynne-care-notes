@@ -1,5 +1,3 @@
-javascript
-  
 'use client'
 import React, { useState, useRef } from 'react';
 import { Camera, Upload, FileText, Clock, Download, Trash2, CheckCircle, Mail, Share } from 'lucide-react';
